@@ -55,5 +55,6 @@ h2 {
 }
 
 .moje {
-    color: blue;
+    text-align: center;
+    display: block;
 }
